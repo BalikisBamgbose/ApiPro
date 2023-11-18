@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeApi", "PracticeApi.csproj", "{1ABE23AA-F480-4A5C-9636-D0D242293F5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FA5148F6-C148-451B-BEA2-0A6D00B59B08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5C7D8DCC-AAB0-4EB1-9239-4BB1D899F66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABE23AA-F480-4A5C-9636-D0D242293F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABE23AA-F480-4A5C-9636-D0D242293F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABE23AA-F480-4A5C-9636-D0D242293F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABE23AA-F480-4A5C-9636-D0D242293F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFF0251-96A3-4003-9F95-B79BE27DB363}
+	EndGlobalSection
+EndGlobal
